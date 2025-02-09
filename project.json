@@ -1,0 +1,108 @@
+{
+  "schematics": {
+    "bcbdb216e64042e9a4010ed7e32dde78": {
+      "name": "Schematic1",
+      "sheets": [
+        {
+          "name": "P1",
+          "id": 1,
+          "uuid": "eb53c3b96fcc43f08354848527bee202"
+        }
+      ]
+    },
+    "3992e7d72f734eedba4a77b3c728fcfa": {
+      "name": "Schematic2",
+      "sheets": [
+        {
+          "name": "P1",
+          "id": 1,
+          "uuid": "1d0d32e91ce04d51aec5f1871e282dfa"
+        }
+      ]
+    }
+  },
+  "pcbs": {
+    "c5d1f7e5a94e4df6b2b4ef38b06eb7d6": "PCB1",
+    "fc5d06c835b64a3ca160a9cd2e99050e": "PCB2"
+  },
+  "panels": {},
+  "symbols": {
+    "6845505e87744466838e12783b036d36": {
+      "source": "dae013dc9fb24993ad62a51f9f80d9cd|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"特殊器件\"]",
+      "title": "Drawing-Symbol_A4",
+      "version": "1734002032",
+      "type": 20
+    }
+  },
+  "footprints": {},
+  "devices": {
+    "5df100a8f6554c43bd4e8e88414a93b1": {
+      "title": "Drawing-Symbol_A4",
+      "attributes": {
+        "Company": "嘉立创EDA",
+        "Drawed": "",
+        "Reviewed": "",
+        "Part Number": "",
+        "Version": "V1.0",
+        "Page Size": "A4",
+        "@Project Name": "",
+        "@Page Count": "",
+        "@Update Date": "",
+        "@Create Date": "",
+        "@Schematic Name": "",
+        "@Page No": "",
+        "@Page Name": "",
+        "Name": "",
+        "@Create Time": "",
+        "@Update Time": "",
+        "Border": "1",
+        "Width": "1170",
+        "Height": "825",
+        "Region Start": "1",
+        "X Region Count": "6",
+        "Y Region Count": "4",
+        "Blade Width": "10",
+        "Color": "",
+        "Title Block Position": "3",
+        "Title Block": "1",
+        "@Board Name": "",
+        "Symbol": "6845505e87744466838e12783b036d36",
+        "Footprint": "",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        ""
+      ],
+      "source": "bc676184ec9748d7b372ad543982403a|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1734002032",
+      "custom_tags": "[\"特殊器件\",\"\"]"
+    }
+  },
+  "boards": {
+    "基本验证板": {
+      "schematic": "bcbdb216e64042e9a4010ed7e32dde78",
+      "pcb": "c5d1f7e5a94e4df6b2b4ef38b06eb7d6"
+    },
+    "Board2": {
+      "schematic": "3992e7d72f734eedba4a77b3c728fcfa",
+      "pcb": "fc5d06c835b64a3ca160a9cd2e99050e"
+    }
+  },
+  "config": {
+    "title": "HosiRenKeyboard",
+    "cbbProject": false,
+    "defaultSheet": "5df100a8f6554c43bd4e8e88414a93b1",
+    "editorVersion": "2.2.34.8"
+  }
+}
