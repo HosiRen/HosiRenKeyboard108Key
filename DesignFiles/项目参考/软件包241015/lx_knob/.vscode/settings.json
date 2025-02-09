@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "lv_demo_benchmark.h": "c",
+        "tft_espi.h": "c",
+        "lv_demos.h": "c",
+        "arduino.h": "c",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "*.tcc": "cpp",
+        "system_error": "cpp",
+        "atomic": "cpp",
+        "cstdint": "cpp"
+    }
+}

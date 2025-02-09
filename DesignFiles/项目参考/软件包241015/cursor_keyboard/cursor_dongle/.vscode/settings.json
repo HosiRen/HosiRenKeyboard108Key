@@ -1,0 +1,18 @@
+{
+    "idf.adapterTargetName": "esp32s3",
+    "idf.portWin": "COM21",
+    "idf.flashType": "UART",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "stdio.h": "c",
+        "led_strip.h": "c",
+        "hid_device.h": "c",
+        "wifi_prov.h": "c",
+        "udp": "c",
+        "app_udp_server.h": "c",
+        "stdint.h": "c",
+        "app_tusb_hid.h": "c",
+        "manager.h": "c"
+    }
+}
